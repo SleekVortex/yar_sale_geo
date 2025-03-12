@@ -46,3 +46,6 @@
 ## Проект QGIS
 
 ![image](https://github.com/user-attachments/assets/5692ffba-c99a-44ba-8b15-143a16794db8)
+
+## Автор
+[Андрей Заводов](https://github.com/SleekVortex)
